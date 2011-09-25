@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PassWords</string>
+    <string name="generate">Generate</string>
+    <string name="copy">Copy</string>
+    <string name="clear">Clear</string>
+    <string name="lock">Lock</string>
+    <string name="empty"></string>
+    <string name="about">About</string>
+    <string name="xkcd">XKCD</string>
+    
+    <string name="copyright">Copyright (c) 2011 Ourbunny.\nAll rights reserved.\n\nTHIS SOFTWARE IS PROVIDED BY OURBUNNY \'\'AS IS\'\' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL OURBUNNY OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</string>
+	<string name="contact">support\@ourbunny.com\n<a href="http://www.ourbunny.com">www.ourbunny.com</a>\n\nPO BOX 90592\nSan Antonio TX 78209\n(703) 651-2633</string>
+	<string name="back">Back</string>
+</resources>
