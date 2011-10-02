@@ -1,4 +1,6 @@
-package com.ourbunny.PassWords;
+package com.ourbunny.PassWordsNG;
+
+import com.ourbunny.PassWordsNG.R;
 
 import android.app.Activity;
 import android.content.Intent;

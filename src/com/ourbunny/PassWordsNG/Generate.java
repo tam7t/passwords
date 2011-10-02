@@ -1,4 +1,4 @@
-package com.ourbunny.PassWords;
+package com.ourbunny.PassWordsNG;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,6 +6,8 @@ import java.io.InputStreamReader;
 import java.security.SecureRandom;
 import java.util.ArrayList;
 import java.util.List;
+
+import com.ourbunny.PassWordsNG.R;
 
 import android.app.Activity;
 import android.content.Intent;
