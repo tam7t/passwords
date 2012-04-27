@@ -1,0 +1,10 @@
+PassWords
+=========
+
+PassWords generates strong passwords that are easy to remember using the method described in XKCD comic #936. Randall Munroe's comic shows that a passphrase of four common words would take 550 years to guess at 1000 guesses/sec. Each word is chosen at random using the SecureRandom Android API from a dictionary of 7072 common English words.
+
+Available on the Google Play store:
+
+https://play.google.com/store/apps/details?id=com.ourbunny.PassWordsNG
+
+
